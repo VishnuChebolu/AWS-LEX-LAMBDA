@@ -3,7 +3,7 @@
 ## This is a banking bot made with AWS Lex and Lambda Function having two intents namely check balance and transfer funds.
 
 
-## ISome of the account details in our bank are displayed below.
+## Some of the account details in our bank are displayed below.
 ```
 {
     'Savings Account': {
